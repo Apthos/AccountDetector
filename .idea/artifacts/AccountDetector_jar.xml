@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AccountDetector:jar">
+    <output-path>$USER_HOME$/Desktop/Development Servers/SpigotServer/plugins</output-path>
+    <root id="archive" name="AccountDetector.jar">
+      <element id="module-output" name="AccountDetector" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:unknown" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.5.0/HikariCP-2.5.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/Development Resources/HikariCP-2.4.7.jar" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
